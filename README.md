@@ -4,7 +4,7 @@ Reimplementation of spr() as a Metatable.
 
 
 
-Displays a metasprite.
+Displays a metatable sprite.
 
 
 
