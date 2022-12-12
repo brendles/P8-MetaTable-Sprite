@@ -1,5 +1,5 @@
 # P8-MetaTable-Sprite
-Reimplementation of spr() as a Metatable.
+spr() reimplementation as a metatable.
 
 
 
